@@ -23,7 +23,10 @@
     </option>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d90a3b0f-4fdd-4851-bd69-f096f85cdd14" name="Default" comment="" />
+    <list default="true" id="d90a3b0f-4fdd-4851-bd69-f096f85cdd14" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    </list>
     <ignored path="CannotResolveSymbolIntellijBug.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/res/values/strings.xml" changelist="d90a3b0f-4fdd-4851-bd69-f096f85cdd14" time="1366136848620" ignored="false" />
@@ -37,6 +40,8 @@
     <file path="/TextDrawable.java" changelist="d90a3b0f-4fdd-4851-bd69-f096f85cdd14" time="1366139319551" ignored="false" />
     <file path="/fade.xml" changelist="d90a3b0f-4fdd-4851-bd69-f096f85cdd14" time="1366138528044" ignored="false" />
     <file path="/android_button_bg.xml" changelist="d90a3b0f-4fdd-4851-bd69-f096f85cdd14" time="1366138753930" ignored="false" />
+    <file path="/Dummy.txt" changelist="d90a3b0f-4fdd-4851-bd69-f096f85cdd14" time="1366144151776" ignored="false" />
+    <file path="/README.md" changelist="d90a3b0f-4fdd-4851-bd69-f096f85cdd14" time="1366144204674" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,13 +111,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MyActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/robotsidekick/intellij/bugs/idea105490/MyActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="83" selection-start="846" selection-end="846" vertical-scroll-proportion="0.53571427">
+            <state line="27" column="0" selection-start="954" selection-end="954" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="0" selection-start="196" selection-end="196" vertical-scroll-proportion="0.17045455">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -163,6 +177,14 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -176,6 +198,7 @@
         <option value="$PROJECT_DIR$/res/drawable/android_button.xml" />
         <option value="$PROJECT_DIR$/src/com/robotsidekick/intellij/bugs/idea105490/TextDrawable.java" />
         <option value="$PROJECT_DIR$/src/com/robotsidekick/intellij/bugs/idea105490/MyActivity.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -538,10 +561,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/robotsidekick/intellij/bugs/idea105490/MyActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="83" selection-start="846" selection-end="846" vertical-scroll-proportion="0.53571427">
+        <state line="27" column="0" selection-start="954" selection-end="954" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="196" selection-end="196" vertical-scroll-proportion="0.17045455">
+          <folding />
         </state>
       </provider>
     </entry>
