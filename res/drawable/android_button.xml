@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/android"/>
+
+    <item
+        android:left="35dp"
+        android:bottom="45dp"
+        android:top="5dp"
+        android:right="0dp">
+
+        <shape android:shape="rectangle">
+            <corners android:radius="4dp"/>
+            <solid android:color="#ff0000"/>
+        </shape>
+    </item>
+
+    <item
+        android:left="35dp"
+        android:bottom="45dp"
+        android:top="5dp"
+        android:right="0dp"
+        android:drawable="@drawable/placeholder"
+        android:id="@+id/unread_count_text"/>
+
+</layer-list>
