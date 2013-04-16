@@ -25,7 +25,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d90a3b0f-4fdd-4851-bd69-f096f85cdd14" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
     </list>
     <ignored path="CannotResolveSymbolIntellijBug.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -125,7 +124,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="196" selection-end="196" vertical-scroll-proportion="0.17045455">
+            <state line="5" column="27" selection-start="95" selection-end="95" vertical-scroll-proportion="0.121753246">
               <folding />
             </state>
           </provider>
@@ -570,7 +569,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="196" selection-end="196" vertical-scroll-proportion="0.17045455">
+        <state line="5" column="27" selection-start="95" selection-end="95" vertical-scroll-proportion="0.121753246">
           <folding />
         </state>
       </provider>
